@@ -130,16 +130,6 @@ I built this dashboard not for myself, but for a business user:
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add your screenshot here)
-
-![Dashboard Preview]("./Screenshots/Sales_Dashboard.png")
-
----
-
----
-
 ## 👨‍💻 About Me
 
 **Ani**  
